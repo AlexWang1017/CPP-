@@ -14,7 +14,7 @@
       "MIMode": "gdb",
       "miDebuggerPath": "D:/msys64/ucrt64/bin/gdb.exe",
       
-      //"internalConsoleOptions": "neverOpen",
+      
 
       "setupCommands": [
         {
