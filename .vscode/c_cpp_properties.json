@@ -3,7 +3,7 @@
     {
       "name": "MSYS2-UCRT64",
       "includePath": [
-        "${workspaceFolder}/**",
+        "${workspaceFolder}/**",  
         "D:/msys64/ucrt64/include",
         "D:/msys64/ucrt64/include/c++/14.2.0",
         "D:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32",
@@ -16,5 +16,5 @@
       "intelliSenseMode": "windows-gcc-x64"
     }
   ],
-  "version": 4
+  "version": 4 
 }
